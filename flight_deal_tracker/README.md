@@ -1,5 +1,5 @@
 # Flight Deal Tracker (Amadeus Flight Search + Sheety)
-Completed on Day 39 of 100 Days of Python
+Completed on Day 39 and 40 of 100 Days of Python
 
 A Python-based flight deal tracking app that monitors flight prices from a fixed origin city to multiple destinations and sends an email alert when a cheaper than expected flight is found. Destination cities and target prices are stored in a Google Sheet, which is accessed and updated using the Sheety API.
 
