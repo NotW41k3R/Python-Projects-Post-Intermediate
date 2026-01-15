@@ -181,3 +181,5 @@ cython_debug/
 .cursorindexingignore
 **/tempCodeRunnerFile.py
 password_manager_v2/passwords.json
+password_manager_v2/passwords.json
+/gym-booking-automation/chrome_profile
